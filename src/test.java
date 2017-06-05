@@ -6,7 +6,7 @@ public class test {
         else return n*f(n-1);
 
     }
-    public static void main(String[] args) {
+    static public void main(String[] args) {
         say s = new say("hello");
         s.sayString();
         System.out.println("hello world");

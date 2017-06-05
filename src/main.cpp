@@ -18,8 +18,8 @@ using namespace std;
 
 int main(int argc, char *argv[]) {
     if (argc < 2 || argc > 3) {
-        printf("Uso:\n");
-        printf("\t./JVM file_class.class \t ou,\n");
+        printf("Usage:\n");
+        printf("\t./JVM file_class.class \n");
         printf("\t./JVM file_class.class class_info.out\n");
         exit(1);
     }

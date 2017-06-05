@@ -1,1 +1,0 @@
-g++ -g main.cpp classloader.cpp classviewer.cpp utils.cpp methodarea.cpp heap.cpp vmstack.cpp frame.cpp executionengine.cpp stringobject.cpp arrayobject.cpp classinstance.cpp classruntime.cpp
